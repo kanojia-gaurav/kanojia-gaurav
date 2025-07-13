@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### 👨‍💻 About Me
 
 - 🛠️ Currently working on: Orchestrating data workflows with **Apache Airflow**
-- 📦 Skilled with: `Snowflake`, `Python`, `AWS (S3, Lambda)`, `SQL`, `Docker`, `Git`, `ETL Pipelines`, `CICD piplines`
+- 📦 Skilled with: `Snowflake`, `Python`, `AWS (S3, Lambda, IAM, CodeBuild, CloudWatch, Api GateWay)`, `SQL`, `Docker`, `Git`, `ETL Pipelines`, `CICD piplines`
 - 🧩 Exploring: `PySpark`, `Data Governance`, `DBT`
 - 📈 Interested in optimizing: `Data Pipelines with techStack: Snowflake, AWS, Python, SQL, Airflow, DBT`
 - ☁️ Building: `Lambda-integrated ETL pipelines & reusable AWS layers`
@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 
 ### 📘 Projects
 
+- 📂 **Implemented the DBT Netflix project (Data Modelling)**
 - 🔁 **Automated Weather ETL with Airflow + S3**
 - 📂 **Smart Archival System for S3 Landing Zones**
 
