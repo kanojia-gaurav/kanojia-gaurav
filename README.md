@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Gaurav 👋
 
-🚀 Senior Data Engineer at QUANTIPHI | Cloud & Automation Enthusiast  
+🚀 Senior Data Engineer at Quantiphi | Cloud & Automation Enthusiast  
 💻 Passionate about building scalable data pipelines, automating workflows, and exploring cloud-native architectures.
 
 ---
